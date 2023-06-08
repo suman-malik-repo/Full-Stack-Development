@@ -8,7 +8,7 @@
 >> google search for the solutions
 
 ::what is intternet
->> intercennected network of computers around the wrold
+>> interconnected network of computers around the wrold
 >> clint > ISP > DNS > Server
 >> nslookup.io
 
@@ -20,27 +20,27 @@
 >> FrontEnd > HTML, CSS, JavaScript, Bootstrap, TailWindCSS
 >> BackEnd > Express, Node.JS
 >> DataBase > SQL, MongoDB
->>> React
+>> React
 
 ~004 Prerequisites
 >> Computer/Laptop
 >> Internet Connection
 >> Browser (chrome)
->> Code Editor (vs code)
+>> Code Editor (vsCode)
 
-~005 HTML (Level1) part-A
-::INtroduction to HTML
+~005 HTML (Level_1) part-A
+::Introduction to HTML
 >> HTML consider as a markup language (stracture of a website)
->> HTML use to change a normal text to structured formate
+>> HTML use to change a normal text to structured formate such as bold, italic etc.
 
 ::HTML Elements&Tags
 >> paragraph, heading, images are the elements
 >> <p>...</p> is the tag for paragraph, <h1>...</h1> is the first level tag for heading and so on...
->> tags are use as a container to content some information about element
+>> tags are used as a container to content some information about element
 >> element is contained with {opening tag, content, closing tag}
 
 ::Hello Wrold
->> hellowrold.html
+>> helloworld.html
 
 ::Paragraph Element
 >> nestedd tags > if a tag is under another tag
@@ -57,3 +57,5 @@
 >> metadata is define in <head>...</head> tag
 >> metadata is called data about data
 >> title is the identity of the html document
+>> in vsCode type ! and press enter to get a skeleton of a html document this is backend by preinstalled emmit extension provided by vsCode
+
