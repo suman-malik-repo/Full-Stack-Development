@@ -1,0 +1,40 @@
+~07
+::Lists in HTML
+>>Unordered list
+>>Ordered list
+>>list.html
+::HTML attribute
+>> define extra information with using attribute
+
+::Anchor Element
+>> add link to the html page
+>> if we dont use https:// the the html find the file into local file
+>> absolute link and relative link
+>> absolute link is the online link
+>> relative link is the local file link
+>>link.html
+
+::Image Element
+>> add image to html document
+>>img.html
+
+::Practice Qs 2
+>> 01_practice.html
+
+::Br tag
+>> line brack
+>> <br>
+
+::Comments in HTML
+>> not display in Browser
+>> <!--  Comments  -->
+>> shortcut of comments >> select text > ctrl+/
+
+>>MDN web docs for resources [search for it]
+
+::Is HTML case sensitive?
+>> no
+
+::Practice Qs 3
+>> build small portfolio webpage
+>>02_practice.html
