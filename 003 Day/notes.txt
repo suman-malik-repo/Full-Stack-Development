@@ -1,0 +1,50 @@
+~ HTML level 2
+
+:: Inline vs Block Element
+>> Inline Element not use full width
+>> Block Elements uses full width
+>> check for heading, paragraph, image, anchor Element
+>> inspect for more details...
+
+:: Div Elements
+>> use as a container
+>> its a block Element
+
+::span Element
+>> its a inline Element
+>> use ass a container
+
+:: Hr Tag
+>> horizontal line
+
+:: Subs & Sup Tag
+>> H2SO4
+>> a2+b2 = a2+2ab+b2
+
+::Practice Qs 1
+>> 01_practice.HTML
+
+:: Semantic Markup
+>> meaning of content...
+
+:: Sementic Tags
+>> header
+>> main
+>> footer
+>> nav
+>> article
+>> section
+>> aside
+
+:: HTML Entities
+>> search mdn html Entities
+
+:: Practice Qs
+>> 02_practice.html
+
+::Emmet
+>> visit emmet.io documentation> cheat sheet
+>> ! for html skeleton
+
+:: Further Undersatanding HTML
+>> 
