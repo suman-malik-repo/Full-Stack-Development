@@ -12,7 +12,7 @@
 
 ::span Element
 >> its a inline Element
->> use ass a container
+>> use as a container
 
 :: Hr Tag
 >> horizontal line
@@ -43,8 +43,8 @@
 >> 02_practice.html
 
 ::Emmet
->> visit emmet.io documentation> cheat sheet
->> ! for html skeleton
+>> visit emmet.io> documentation> cheat sheet
+>> ! for html skeleton etc.
 
 :: Further Undersatanding HTML
 >> 
