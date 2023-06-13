@@ -1,0 +1,75 @@
+~ HTML level -3
+
+::Tables in HTML
+>> row & cols
+>> table.html
+
+:: symantics in Tables
+>> <thead>
+>> <tbody>
+>> <tfoot>
+
+:: colspan & rowspan
+>>row_col_span.html
+
+:: Practice Qs 7
+>>01_practice.html
+
+:: forms in HTML
+>> action attribute
+>> input element
+
+:: Placeholder & Lebels
+>> Placeholder
+>> labels
+
+:: Button element
+>> button through input
+
+:: Name attribute
+>> 
+
+:: Practice Qs 8
+>> 02_practice.html
+
+:: CheckBox
+>> checkbox.html
+>> if use checked, box is checked in default...
+>> when submit> if checked, then in url "on", otherwise nothing happened
+
+:: Radio Button
+>> radio.html
+
+:: select
+>> select.html
+
+:: Range
+>> range.html
+
+:: text area
+>>textarea.html
+
+::Practice Qs 9
+>> 03_practice.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
